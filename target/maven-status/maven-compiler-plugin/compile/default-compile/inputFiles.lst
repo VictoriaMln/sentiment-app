@@ -1,9 +1,0 @@
-/home/victoria/sentiment-app/src/main/java/com/example/sentiment/SentimentApplication.java
-/home/victoria/sentiment-app/src/main/java/com/example/sentiment/controller/SentimentController.java
-/home/victoria/sentiment-app/src/main/java/com/example/sentiment/model/BatchRequest.java
-/home/victoria/sentiment-app/src/main/java/com/example/sentiment/model/BatchResponse.java
-/home/victoria/sentiment-app/src/main/java/com/example/sentiment/model/SentimentAnalysis.java
-/home/victoria/sentiment-app/src/main/java/com/example/sentiment/model/SentimentLabel.java
-/home/victoria/sentiment-app/src/main/java/com/example/sentiment/model/SentimentResponse.java
-/home/victoria/sentiment-app/src/main/java/com/example/sentiment/model/TokenSentiment.java
-/home/victoria/sentiment-app/src/main/java/com/example/sentiment/service/SentimentService.java
