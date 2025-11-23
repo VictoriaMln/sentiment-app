@@ -1,0 +1,11 @@
+{
+  "positive": [
+    "good", "great", "love", "like", "happy", "excellent", "awesome", "cool", "amazing", "fantastic", "nice"
+  ],
+  "negative": [
+    "bad", "hate", "sad", "terrible", "awful", "horrible", "disgusting", "angry", "worse", "worst"
+  ],
+  "neutral": [
+    "ok", "fine", "normal", "average", "text", "message", "comment"
+  ]
+}

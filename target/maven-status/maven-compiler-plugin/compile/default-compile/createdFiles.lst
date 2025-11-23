@@ -1,0 +1,9 @@
+com/example/sentiment/SentimentApplication.class
+com/example/sentiment/service/SentimentService.class
+com/example/sentiment/model/SentimentAnalysis.class
+com/example/sentiment/model/SentimentLabel.class
+com/example/sentiment/controller/SentimentController.class
+com/example/sentiment/model/SentimentResponse.class
+com/example/sentiment/model/TokenSentiment.class
+com/example/sentiment/model/BatchResponse.class
+com/example/sentiment/model/BatchRequest.class
